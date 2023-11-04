@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlsenior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Auth0 Angular SDK sample
 
 This sample app demonstrates the integration of the [Auth0 Angular SDK](https://github.com/auth0/auth0-angular) into an Angular application created using the Angular CLI. This sample is a companion to the [Auth0 Angular SDK Quickstart](https://auth0.com/docs/quickstart/spa/angular).
